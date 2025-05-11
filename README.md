@@ -16,8 +16,7 @@
 
 **Список используемых источников**
 
-- [Tkinter документация](https://tkdocs.com/tutorial/)
-- [TkDocs (учебник по Tkinter)](https://tkdocs.com/tutorial/)
+- [PySimpleGUI документация](https://docs.pysimplegui.com/en/latest/)
 - [ Основы ООП в Python](https://realpython.com/python3-object-oriented-programming/)
 - [Создание собственных исключений в Python](https://docs.python.org/3/tutorial/errors.html#user-defined-exceptions)
 
